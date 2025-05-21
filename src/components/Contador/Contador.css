@@ -1,0 +1,22 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.botoes {
+    display: flex;
+    gap: 5px;
+}
+span {
+    font-size: 5rem;
+}
+button {
+    font-size: 3rem;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+}
