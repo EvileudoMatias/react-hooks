@@ -20,3 +20,6 @@ button {
     border-radius: 10px;
     border: none;
 }
+button:hover {
+    background-color: grey;
+}
